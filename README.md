@@ -19,7 +19,7 @@
 
 Technical Support Engineer with **13+ years of experience in IT**, working across technical support, systems administration, cloud, automation and IT operations.
 
-I enjoy solving complex technical problems, improving operational processes and turning repetitive tasks into automation.
+I enjoy solving technical problems, improving operational processes and turning repetitive tasks into automation.
 
 My interests sit at the intersection of:
 
@@ -27,21 +27,28 @@ My interests sit at the intersection of:
 
 ---
 
-## 🧠 Areas of Expertise
+## 🧩 What I Work With
 
 | ☁️ Cloud | ⚙️ Systems | 🤖 Automation |
 |---|---|---|
 | AWS | Windows | Python |
-| Azure | Linux | APIs |
-| Google Cloud | Google Workspace | Webhooks |
-| IAM | SaaS Administration | Scripting |
+| Azure | Linux | Scripting |
+| Google Cloud | Google Workspace | Automation |
+| IAM | SaaS Administration | Webhooks |
 
-| 📊 Observability | 🚀 DevOps | 🛠️ IT Operations |
+| 🔌 APIs & Integrations | 📊 Observability | 🚀 DevOps |
 |---|---|---|
-| Prometheus | Docker | ITSM |
-| Grafana | Kubernetes | Jira / JSM |
-| Monitoring | CI/CD | Incident Management |
-| SLA Metrics | Git / GitHub | Service Operations |
+| REST APIs | Prometheus | Docker |
+| API Integration | Grafana | Kubernetes |
+| Webhooks | Monitoring | CI/CD |
+| Postman | SLA Metrics | Git / GitHub |
+
+| 🛠️ IT Operations |
+|---|
+| ITSM |
+| Jira / JSM |
+| Incident Management |
+| Service Operations |
 
 ---
 
@@ -53,17 +60,21 @@ My interests sit at the intersection of:
 
 `AWS` `Azure` `Google Cloud` `Terraform`
 
+### APIs & Integrations
+
+`REST APIs` `Postman` `Webhooks` `API Gateway` `Integrations`
+
 ### Development & Automation
 
-`Python` `Node.js` `SQL` `REST APIs` `Webhooks`
+`Python` `Node.js` `SQL` `Scripting`
 
 ### DevOps
 
 `Docker` `Kubernetes` `Git` `GitHub` `GitLab` `CI/CD`
 
-### Monitoring
+### Monitoring & Observability
 
-`Prometheus` `Grafana` `Observability` `SLA Monitoring`
+`Prometheus` `Grafana` `Monitoring` `SLA Monitoring`
 
 ### IT & Systems
 
@@ -81,14 +92,14 @@ My repositories cover different areas of:
 
 ```text
 ┌──────────────────────────────────────────────┐
-│                  PERICHTECH                   │
+│                  PERICHTECH                  │
 ├──────────────────────────────────────────────┤
 │                                              │
 │   ☁️  Cloud & Infrastructure                 │
 │   ⚙️  Systems & IT Operations                │
-│   🤖 Automation & Scripting                   │
-│   📊 Monitoring & Observability               │
-│   🚀 DevOps & CI/CD                           │
-│   🔌 APIs & Integrations                      │
+│   🤖  Automation & Scripting                 │
+│   🔌  APIs & Integrations                    │
+│   📊  Monitoring & Observability             │
+│   🚀  DevOps & CI/CD                         │
 │                                              │
 └──────────────────────────────────────────────┘
