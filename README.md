@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ PERICHTECH
+# ⚡ Christian Perich
 
 ### IT • CLOUD • AUTOMATION • SYSTEMS • DEVOPS • MONITORING
 
